@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    padding: 20px;
+    font-family: Old italik;
+    background-color: turquoise;
+}
+
+iframe {
+    margin: 20px;
+}
+
+img {
+    width: 100px;
+}
